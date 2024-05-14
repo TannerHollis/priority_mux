@@ -2,7 +2,7 @@
 
 The `priority_mux` module is a Verilog implementation designed to select signals based on priority levels. It handles multiple signals and uses a priority-based mechanism to choose the signal with the highest priority that is also requesting service.
 
-![Example 4x1 Priority Mux](./resources/example_4x1_p_mux.png) *An example of the logic that is generated*
+![Example 4x1 Priority Mux](./resources/example_4x1_p_mux.png) *An example of the logic that is generated for a 4x1 priority multiplexer.*
 
 ## Features
 
